@@ -7,7 +7,6 @@ INSERT INTO O_OBJ
 	'Project',
 	'',
 	"00000000-0000-0000-0000-000000000000");
-<<<<<<< HEAD
 INSERT INTO O_NBATTR
 	VALUES ("a2f77982-2701-48ec-8ece-13f3e31bcb76",
 	"5f20be32-072c-49ff-b6aa-2bb606462dff");
@@ -44,8 +43,24 @@ INSERT INTO O_ATTR
 	"ba5eda7a-def5-0000-0000-000000000004",
 	'',
 	'');
-=======
->>>>>>> refs/remotes/origin/master
+INSERT INTO O_NBATTR
+	VALUES ("26cbb944-986d-4989-b74c-6665751c0dea",
+	"5f20be32-072c-49ff-b6aa-2bb606462dff");
+INSERT INTO O_BATTR
+	VALUES ("26cbb944-986d-4989-b74c-6665751c0dea",
+	"5f20be32-072c-49ff-b6aa-2bb606462dff");
+INSERT INTO O_ATTR
+	VALUES ("26cbb944-986d-4989-b74c-6665751c0dea",
+	"5f20be32-072c-49ff-b6aa-2bb606462dff",
+	"8fc4fac6-b85b-4f25-8cd5-b529d4f7008b",
+	'ProjectNumber',
+	'',
+	'',
+	'ProjectNumber',
+	0,
+	"ba5eda7a-def5-0000-0000-000000000002",
+	'',
+	'');
 INSERT INTO O_ID
 	VALUES (0,
 	"5f20be32-072c-49ff-b6aa-2bb606462dff");
