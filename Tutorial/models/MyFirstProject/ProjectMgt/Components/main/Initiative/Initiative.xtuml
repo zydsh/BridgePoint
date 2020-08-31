@@ -1,0 +1,32 @@
+-- BP 7.1.6 content: ModelClass syschar: 3 persistence-version: 7.1.6
+
+INSERT INTO O_OBJ
+	VALUES ("7dc26ebd-33cc-43d0-a359-a4e07a3d33ec",
+	'Initiative',
+	3,
+	'Initiative',
+	'',
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO O_ID
+	VALUES (0,
+	"7dc26ebd-33cc-43d0-a359-a4e07a3d33ec");
+INSERT INTO O_ID
+	VALUES (1,
+	"7dc26ebd-33cc-43d0-a359-a4e07a3d33ec");
+INSERT INTO O_ID
+	VALUES (2,
+	"7dc26ebd-33cc-43d0-a359-a4e07a3d33ec");
+INSERT INTO PE_PE
+	VALUES ("7dc26ebd-33cc-43d0-a359-a4e07a3d33ec",
+	1,
+	"5d63dafd-3ff6-4e96-a522-09e1bd5b2994",
+	"00000000-0000-0000-0000-000000000000",
+	4);
+INSERT INTO EP_PKG_PROXY
+	VALUES ("5d63dafd-3ff6-4e96-a522-09e1bd5b2994",
+	"00000000-0000-0000-0000-000000000000",
+	"7965b6e8-9ba4-4f65-b9f2-f8962e7e197d",
+	'main',
+	'',
+	0,
+	'../main.xtuml');
